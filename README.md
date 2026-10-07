@@ -4,7 +4,7 @@ Software engineer in Bengaluru. I work at **Cisco** on **Splunk AppDynamics** (o
 
 ---
 
-### 🟢 [FocusBae](https://github.com/Prateek-Vortex/focusbae): never lose a promise made in a meeting
+### 🟢 [FocusBae](https://github.com/focusbae/focusbae): never lose a promise made in a meeting
 
 A free, open-source Mac app that records any meeting with **no bot joining**, transcribes it **on your Mac**, and keeps track of **who promised what to whom**, with the exact words as proof.
 
@@ -12,7 +12,7 @@ A free, open-source Mac app that records any meeting with **no bot joining**, tr
 - No account, nothing uploaded, startup makes zero network connections
 - Electron · React · SQLite · Swift · MIT licensed
 
-[Download](https://www.focusbae.com/download) · [Code](https://github.com/Prateek-Vortex/focusbae) · [Discord](https://discord.gg/vWugF4Rreb)
+[Download](https://www.focusbae.com/download) · [Code](https://github.com/focusbae/focusbae) · [Discord](https://discord.gg/vWugF4Rreb)
 
 ### 🛡️ [MergeProtect](https://www.mergeprotect.ai/): AI review and tests for pull requests
 
